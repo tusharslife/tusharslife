@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 
 -->
 I'm Tushar Raj, a software developer by profession who loves to code and build experiences.
-![image](https://user-images.githubusercontent.com/15164022/162827138-cf5dd16f-75d5-4e41-b213-95255f623fdf.gif)
