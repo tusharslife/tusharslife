@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 -->
 I'm Tushar Raj, a software developer by profession who loves to code and build experiences.
+
+<a href="https://www.buymeacoffee.com/tusharslife" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
