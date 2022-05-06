@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 I'm Tushar Raj, a software developer by profession who loves to code and build experiences.
 
-##### Support us by donating here: https://tusharslife.blogspot.com/p/donate.html
+##### Support by donating here: https://tusharslife.blogspot.com/p/donate.html
