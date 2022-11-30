@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-I'm Tushar Raj, a software developer by profession who loves to code and build experiences.
+I'm Tushar Raj, a System Admin by profession who loves to code and build experiences.
 
 ##### Support by donating here: https://tusharslife.blogspot.com/p/donate.html
