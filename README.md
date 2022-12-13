@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-I'm <a href="https://www.linkedin.com/in/tusharslife" target="_blank"> Tushar Raj</a>, System Administrator by profession who loves to code and build experiences.<img width="30%" align="right" src="https://github.com/pathik455/pathik455/blob/main/image.gif" />
+I'm <a href="https://www.linkedin.com/in/tusharslife" target="_blank"> Tushar Raj</a>, System Administrator by profession who loves to code and build experiences.
 
 ##### Support by donating here: https://tusharslife.blogspot.com/p/donate.html
  <h1><u><u></h1>
